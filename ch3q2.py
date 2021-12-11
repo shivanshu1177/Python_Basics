@@ -10,3 +10,4 @@ letter = letter.replace("<|Name|>", name)
 letter = letter.replace("<|Date|>", date)
 
 print(letter)
+print("Hello world")
